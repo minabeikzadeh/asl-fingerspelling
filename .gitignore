@@ -1,0 +1,9 @@
+# Data and big files live on Google Drive, not GitHub
+archive/
+our_recordings/
+*.zip
+*.npz
+*.pt
+*.task
+*.failures.csv
+__pycache__/
